@@ -1,0 +1,23 @@
+{
+  "id": "2137124",
+  "name": "京西shang'chang",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1488909",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "7216348",
+      "name": "设置",
+      "font_class": "shezhi1",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    }
+  ]
+}
